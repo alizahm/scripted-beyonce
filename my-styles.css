@@ -28,3 +28,20 @@ h2 { margin-bottom: 5px; }
 .captioned-picture p {
     margin: 0;
 }
+
+#album-buttons {
+    display: flex;
+    list-style-type: none
+}
+
+#lemonade-album, #dangerously-in-love {
+    display: flex;
+}
+
+#dangerously-in-love {
+    background-color: #6799;
+}
+
+#lemonade-album {
+    background-color: #08795677;
+}
